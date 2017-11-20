@@ -1,6 +1,6 @@
-# Addon Name: Jen Unleashed
-# Addon id: plugin.video.jen.unleased
-# Addon Provider: Team Jen
+# Addon Name: Rey of Jakku  
+# Addon id: plugin.video.reyofjakku
+# Addon Provider: Rob
 msgid ""
 msgstr ""
 "Project-Id-Version: Jen\n"
