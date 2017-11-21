@@ -266,11 +266,11 @@ def get_xml(url):
 
 
 def main():
-    main_url = "http://yoururl/yourmain.xml"  #your main.xml url goes here
+    main_url = "http://plugin.video.reyofjakku.xml"  #your main.xml url goes here
     sections = [
-        {'name': 'jen', # can change jen to whatever you want.  This wil name the output xml jen.xml
-         'url': "http://yoururlforthesectionyouwant.xml", # your section xml goes here
-         'poster': 'Jen'}, # can change Jen to whatever you want. This will be displayed as the poster name on jen.xml and
+        {'name': 'Rey', # can change jen to whatever you want.  This wil name the output xml jen.xml
+         'url': "http://plugin.video.reyofjakku.xml", # your section xml goes here
+         'poster': 'Rey'}, # can change Jen to whatever you want. This will be displayed as the poster name on jen.xml and
                            # also in the actual search in your addon in kodi eg Jen - The Avengers
     ]
 
