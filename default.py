@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://github.com/ReyofJakku/" # url of the root xml file
+root_xml_url = "https://github.com/ReyofJakku/plugin.video.reyofjakku" # url of the root xml file
 __builtin__.tvdb_api_key = "DF25E298AF87442B"  # tvdb api key
 __builtin__.tmdb_api_key = "e15fb2d44119096596bda6ba9aca5395"  # tmdb api key
 __builtin__.trakt_client_id = "98a65c6b470d66ddd06b2da30c21207115fd3e5e84b60040e578e8dd21a79ddc"  # trakt client id
