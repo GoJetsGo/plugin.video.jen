@@ -24,16 +24,16 @@
     <category label="30715">
       <setting label="30718" type="lsep"/>
       <setting label="30719" type="action" option="close"
-               action="RunPlugin(plugin://plugin.video.reyofjakku/?mode=clearCache)"/>
+               action="RunPlugin(plugin://reyofjakku/?mode=clearCache)"/>
       <setting label="30733" type="lsep"/>
       <!-- scraper settings -->
       <setting label="30734" type="action" option="close"
-               action="RunPlugin(plugin://plugin.video.reyofjakku/?mode=ScraperSettings)"/>
+               action="RunPlugin(plugin://reyofjakku/?mode=ScraperSettings)"/>
       <setting id="use_link_dialog" label="30744" type="bool" default="true" />
       <setting id="link_fallthrough" label="30745" type="bool"	default="false" visible="eq(-1,true)"/>
       <setting label="30741" type="lsep"/>
       <setting label="30742" type="action" option="close"
-               action="RunPlugin(plugin://plugin.video.reyofjakku/?mode=ResolverSettings)"/>
+               action="RunPlugin(plugin://reyofjakku/?mode=ResolverSettings)"/>
       <!-- filtering settings -->
       <setting label="30735" type="lsep"/>
       <setting id="allow_openload" label="30736" type="bool" default="false"/>
@@ -62,7 +62,7 @@
       <!-- debugging and developer options -->
       <setting id="debug" type="bool" label="30758" default="false" visible="true"/>
       <setting id="first_run" label="first run" type="bool" default="true" visible="false"/>
-      <setting label="Cache Location" id="cache_folder" type="folder" default="special://profile/addon_data/plugin.video.Rey of Jakku/"/>
+      <setting label="Cache Location" id="cache_folder" type="folder" default="special://profile/addon_data/reyofjakku/"/>
     </category>
 
 
