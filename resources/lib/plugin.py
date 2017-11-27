@@ -15,7 +15,7 @@ class abstractclassmethod(classmethod):
 
 class Plugin():
     __metaclass__ = abc.ABCMeta
-    name = "Plugin"
+    name = "https://github.com/ReyofJakku"
     priority = 100
 
     def get_xml(self, url):
